@@ -1,0 +1,44 @@
+{
+  "NOS": {
+    "82": {
+      "id": "8454000",
+      "source": "NOS",
+      "name": "Providence, RI",
+      "latitude": "41.8068",
+      "longitude": "-71.3988",
+      "altitude": "21.0\n"
+    },
+    "83": {
+      "id": "8452660",
+      "source": "NOS",
+      "name": "Newport, RI",
+      "latitude": "41.505",
+      "longitude": "-71.326667",
+      "altitude": "10.6\n"
+    },
+    "101": {
+      "id": "8454049",
+      "source": "NOS",
+      "name": "Quonset Pt, RI",
+      "latitude": "41.58667",
+      "longitude": "-71.40500",
+      "altitude": "9.13\n"
+    },
+    "102": {
+      "id": "8452944",
+      "source": "NOS",
+      "name": "Conimicut Light, RI",
+      "latitude": "41.71666667",
+      "longitude": "-71.34333333",
+      "altitude": "2\n"
+    },
+    "47": {
+      "id": "0",
+      "source": "NOS",
+      "name": "Block Island, RI",
+      "latitude": "41.18945",
+      "longitude": "-71.56754",
+      "altitude": "999\n"
+    }
+  }
+}
