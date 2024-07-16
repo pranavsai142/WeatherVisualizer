@@ -1,5 +1,6 @@
 # Queries NOAA NOS buoys and saves the data
 # Pranav 9/25/2023
+# https://stackoverflow.com/questions/50236117/scraping-ssl-certificate-verify-failed-error-for-http-en-wikipedia-org
 
 import scipy.io
 from urllib.request import urlretrieve
